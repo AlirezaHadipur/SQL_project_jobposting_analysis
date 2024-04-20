@@ -3,7 +3,7 @@
 # Introduction 📢
 Dive into the data job market! Focusing on several roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in roles.
 
-You can see the queries here: [Click](/SQL_Project_JobPostAnalysis/SQL_project_jobposting_analysis/Queries/)🔍.
+You can see the queries here: [Click](Queries)🔍.
 # Background 🔦
 I attended a [SQL Toturial](https://www.youtube.com/watch?v=7mz73uXD9DA&t=12914s)
 on YouTube from Luke Barousse as a part of my journey as a data analyst. My goal was to improve my knowledge about SQL and whatever I learned In university about SQL as a computer engineer.
